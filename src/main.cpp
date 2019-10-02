@@ -12,6 +12,5 @@ int main() {
       std::cout << res->body << std::endl;
   }
   
-  
   return 0;
 }
